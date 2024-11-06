@@ -1,0 +1,403 @@
+{
+    "en": {
+        "_stop_": " ",
+
+        "New Game": "New Game",
+        "Continue Game": "Continue Game",
+
+        "WORKSHOP": "WORKSHOP",
+        "MISSIONS": "MISSIONS",
+        "UPGRADES": "UPGRADES",
+
+        "BACK": "BACK",
+
+        "begin_mission": "BEGIN\nMISSION",
+        "mission_complete": "MISSION\nCOMPLETE",
+        "upgrade_required": "UPGRADE\nREQUIRED",
+
+        "purchase_upgrade": "PURCHASE UPGRADE",
+        "purchased": "PURCHASED!",
+
+        "Available Upgrades": "Available Upgrades",
+        "QUADRANT SCANNER": "QUADRANT SCANNER",
+        "REFLECTION DRONE": "REFLECTION DRONE",
+
+        "scanner_title": "Quadrant Scanner",
+        "scanner_info": "Pinpoint artifact locations!\n\nUsing high tech ground-penetrating radar, BoXY can tell us where our ancient treasures are buried!",
+        "scanner_info_tts": "Quadrant Scanner - Pinpoint artifact locations! Using high tech ground-penetrating radar, Boxy can tell us where our ancient treasures are buried!",
+
+        "reflection_title": "Reflection Drone",
+        "reflection_info": "Double your digging power!\n\nReflect BoXY's position across the x‑axis, y‑axis, or both axes and use a drone to dig in two places at once!",
+        "reflection_info_tts": "Reflection Drone - Double your digging power! Reflect Boxy's position across the x‑axis, y‑axis, or both axes, and use a drone to dig in two places at once!",
+
+        "RESEARCHING...": "RESEARCHING...",
+        "researching_info": "COMPLETE MISSION #3\nTO UNLOCK!",
+
+        "upgrade_locked_tts": "Researching. Complete mission 3 to unlock!",
+
+        "installing_upgrade": "INSTALLING\nUPGRADE...",
+        "UPGRADE": "UPGRADE",
+        "COMPLETE!": "COMPLETE!",
+
+        "Mission": "Mission",
+
+        "BONUS MISSIONS": "BONUS MISSIONS",
+        "mission_0_title": "Dig-o-rama!",
+        "mission_0_target_info": "In these bonus missions, you control BoXY directly!\n\nUse the WASD/arrow keys or the on-screen joystick to drive BoXY to the provided coordinates.\n\nOnce you reach the correct coordinates, press the DIG button to extract buried treasures before time runs out!",
+        "mission_0_target_info_tts": "In these bonus missions, you control Boxy directly! Use the W A S D or arrow keys or the on-screen joystick to drive Boxy to the provided coordinates. Once you reach the correct coordinates, press the dig button to extract buried treasures before time runs out! NOTE: Bonus missions are replayable. Play them as often as you'd like!",
+        "bonus_mission_footnote": "NOTE:\nBonus missions are replayable. Play them as often as you'd like!",
+
+        "mission_1_title": "Dino Drumstick",
+        "mission_1_target_info": "Target:\nArgentinosaurus femur\n\nLocation:\nPlaza Huincul, Argentina",
+        "mission_1_target_info_tts": "Target: Argentinosaurus femur. Location: Plaza Ween-cool, Argentina",
+        "mission_1_lore": "Argentinosaurus was one of the largest dinosaurs to ever live!  We've heard that the partial remains of one can be found at this dig site in Plaza Huincul.\n\nOur main target is the femur, a large leg bone, but you should also explore the area for fossils and other artifacts!",
+        "mission_1_lore_tts": "Argentinosaurus was one of the largest dinosaurs to ever live!  We've heard that the partial remains of one can be found at this dig site in Plaza Ween-cool. Our main target is the femur, a large leg bone, but you should also explore the area for fossils and other artifacts!",
+        "mission_1_reminder_header": "Mission #1\nDino Drumstick",
+        "mission_1_reminder_target": "Primary target:\nArgentinosaurus\nfemur",
+
+        "mission_2_title": "Moai Mysteries",
+        "mission_2_target_info": "Target:\nMoai statue\n\nLocation:\nRapa Nui\n(Easter Island)",
+        "mission_2_target_info_tts": "Target: Moai statue. Location: Rapa Nui (Easter Island)",
+        "mission_2_lore": "These massive stone statues can weigh up to 86 tons! Explore the moai quarry at Rano Raraku to see if you can find one!\n\nWhile you are on the hunt, keep your eyes peeled for ancient fishing tools or ocean treasures!",
+        "mission_2_lore_tts": "These massive stone statues can weigh up to 86 tons! Explore the moai quarry at Rano Raraku to see if you can find one! While you are on the hunt, keep your eyes peeled for ancient fishing tools or ocean treasures! Requires QUADRANT SCANNER upgrade.",
+        "requires_quadrant_scanner": "*Requires QUADRANT SCANNER upgrade",
+        "mission_2_reminder_header": "Mission #2\nMoai Mysteries",
+        "mission_2_reminder_target": "Primary target:\nMoai statue",
+
+        "mission_3_title": "The Hidden Guardians",
+        "mission_3_target_info": "Target:\nTerracotta warrior statues (two)\n\nLocation:\nXi'an, China",
+        "mission_3_target_info_tts": "Target: Terracotta warrior statues (two). Location: She-awn, China",
+        "mission_3_lore": "The first emperor of China, Qin Shi Huang, was buried with more than 8,000 clay soldiers to protect him in his afterlife.\n\nSearch the excavation pits for statues, artifacts, and more ancient treasures!",
+        "mission_3_lore_tts": "The first emperor of China, Qin Shur Huang, was buried with more than 8,000 clay soldiers to protect him in his afterlife. Search the excavation pits for statues, artifacts, and more ancient treasures!",
+        "mission_3_reminder_header": "Mission #3\nThe Hidden\nGuardians",
+        "mission_3_reminder_target": "Primary target:\nTerracotta warrior statues (two)",
+
+        "mission_4_title": "Cretaceous Quest",
+        "mission_4_target_info": "Target:\nUtahraptor skeleton\n\nLocation:\nUtah, USA",
+        "mission_4_target_info_tts": "Target: Utah raptor skeleton. Location: Utah, USA",
+        "mission_4_lore": "Utahraptor was a large dinosaur that lived 130 million years ago in the Early Cretaceous period.\n\nWe've heard this location contains a complete fossilized skeleton!  Use BoXY's reflection ability to dig on both sides of the river!",
+        "mission_4_lore_tts": "Utah raptor was a large dinosaur that lived 130 million years ago in the Early Cretaceous period. We've heard this location contains a complete fossilized skeleton!  Use Boxy's reflection ability to dig on both sides of the river! Requires REFLECTION DRONE upgrade.",
+        "requires_reflection": "*Requires REFLECTION DRONE upgrade",
+        "mission_4_reminder_header": "Mission #4\nCretaceous Quest",
+        "mission_4_reminder_target": "Primary target:\nUtahraptor skeleton",
+
+        "mission_5_title": "X Marks The Spot",
+        "mission_5_target_info": "Target:\nStone map fragments\n\nLocation:\nCocos Island,\nCosta Rica",
+        "mission_5_target_info_tts": "Target: Stone map fragments. Location: Cocos Island, Costa Rica",
+        "mission_5_lore": "The mysterious Cocos Island is the rumored hiding place of the fabled Treasure of Lima.\n\nWe have received reports that a treasure map carved on a massive stone slab may be buried here.  Can you recover all four pieces of this map?",
+        "mission_5_lore_tts": "The mysterious Cocos Island is the rumored hiding place of the fabled Treasure of Leema. We have received reports that a treasure map carved on a massive stone slab may be buried here.  Can you recover all four pieces of this map?",
+        "mission_5_reminder_header": "Mission #5\nX Marks The Spot",
+        "mission_5_reminder_target": "Primary target:\nStone map fragments (four)",
+
+        "intro_cutscene_page_0": "Hey there! You must be the new robot operator.",
+        "intro_cutscene_page_0_tts": "Hey there! You must be the new robot operator.",
+
+        "intro_cutscene_page_1": "The name's Sammie.  Welcome to Sammie's Salvage Co.!",
+        "intro_cutscene_page_1_tts": "The name's Sammie.  Welcome to Sammie's Salvage Co!",
+
+        "intro_cutscene_page_2": "Here you'll get the chance to dig up all sorts of rare and valuable artifacts!",
+        "intro_cutscene_page_2_tts": "Here you'll get the chance to dig up all sorts of rare and valuable artifacts!",
+
+        "intro_cutscene_page_3": "Let me introduce you to your coworker...",
+        "intro_cutscene_page_3_tts": "Let me introduce you to your coworker.",
+
+        "intro_cutscene_page_4": "<wave>{rot}Meet BoXY!{/rot}</wave>",
+        "intro_cutscene_page_4_tts": "Meet Boxy!",
+
+        "intro_cutscene_page_5": "BoXY here is a state-of-the-art, coordinate-driven, semi-autonomous, subterranean artifact extraction specialist.",
+        "intro_cutscene_page_5_tts": "Boxy here is a state-of-the-art, coordinate-driven, semi-autonomous, subterranean artifact extraction specialist.",
+
+        "intro_cutscene_page_6": "... Basically, he digs stuff up.",
+        "intro_cutscene_page_6_tts": "Basically, he digs stuff up.",
+
+        "intro_cutscene_page_7": "Anyhow, when you're ready, go ahead and start your first mission.  I'll help you get up to speed!",
+        "intro_cutscene_page_7_tts": "Anyhow, when you're ready, go ahead and start your first mission.  I'll help you get up to speed!",
+
+        "intro_cutscene_page_8": "<wave>{rot}Let's go!{/rot}</wave>",
+        "intro_cutscene_page_8_tts": "Let's go!",
+
+
+        "upgrade_cutscene_page_0": "Great job on your first mission!",
+        "upgrade_cutscene_page_0_tts": "Great job on your first mission!",
+
+        "upgrade_cutscene_page_1": "I wanted to let you know about one more thing...",
+        "upgrade_cutscene_page_1_tts": "I wanted to let you know about one more thing...",
+
+        "upgrade_cutscene_page_2": "Right here in our workshop we are able to give BoXY some awesome <b >upgrades</b>!",
+        "upgrade_cutscene_page_2_tts": "Right here in our workshop we are able to give Boxy some awesome upgrades!",
+
+        "upgrade_cutscene_page_3": "These upgrades will give BoXY some amazing new abilities that will turn him into the ultimate digging machine!",
+        "upgrade_cutscene_page_3_tts": "These upgrades will give Boxy some amazing new abilities that will turn him into the ultimate digging machine!",
+
+        "upgrade_cutscene_page_4": "Sometimes a mission will require a new ability, so be sure to keep an eye out for that.",
+        "upgrade_cutscene_page_4_tts": "Sometimes a mission will require a new ability, so be sure to keep an eye out for that.",
+
+        "upgrade_cutscene_page_5": "Check it out by clicking the <b >upgrades</b> button!",
+        "upgrade_cutscene_page_5_tts": "Check it out by clicking the upgrades button!",
+
+        "upgrade_cutscene_page_6": "<wave>{rot}Let's go!{/rot}</wave>",
+        "upgrade_cutscene_page_6_tts": "Let's go!",
+
+
+        "end_cutscene_page_0": "Incredible work!  You've completed all of our missions and have recovered some amazing artifacts!",
+        "end_cutscene_page_0_tts": "Incredible work!  You've completed all of our missions and have recovered some amazing artifacts!",
+
+        "end_cutscene_page_1": "You have proven that you are an excellent robot operator and a master of the coordinate plane!",
+        "end_cutscene_page_1_tts": "You have proven that you are an excellent robot operator and a master of the coordinate plane!",
+
+        "end_cutscene_page_2": "With everything you've accomplished, you are now officially a <b >Coordinate Captain</b>! Well done!",
+        "end_cutscene_page_2_tts": "With everything you've accomplished, you are now officially a Coordinate Captain! Well done!",
+
+        "end_cutscene_page_3": "",
+        "end_cutscene_page_3_tts": "",
+
+        "SUCCESS!": "SUCCESS!",
+        "ITEM FOUND!": "ITEM FOUND!",
+        "Continue": "Continue",
+
+
+        "You dug up a": "You dug up a",
+        "You dug up an": "You dug up an",
+        "You dug up": "You dug up",
+
+        "Fuel Can": "Fuel Can",
+        "fuel_description": "Fuel tank replenished!",
+        "fuel_description_tts": "You dug up a fuel can! Fuel tank replenished!",
+
+        "Ancient Coins": "Ancient Coins",
+        "ancient_coins_description": "Now I have change for the\nancient soda machine!",
+        "ancient_coins_description_tts": "You dug up ancient coins! Now I have change for the ancient soda machine!",
+
+        "Bronze Teapot": "Bronze Teapot",
+        "teapot_description": "Digging up ancient artifacts?\nThat's definitely my cup of tea!",
+        "teapot_description_tts": "You dug up a bronze teapot! Digging up ancient artifacts? That's definitely my cup of tea!",
+
+        "Jade Pendant": "Jade Pendant",
+        "pendant_description": "This pendant is stylish and timeless -\ntalk about your ancient bling!",
+        "pendant_description_tts": "You dug up a jade pendant! This pendant is stylish and timeless - talk about your ancient bling!",
+
+        "Terracotta Warrior": "Terracotta Warrior",
+        "terracotta_warrior_description": "These statues guarded the emperor's\ntomb. Talk about good security!",
+        "terracotta_warrior_description_tts": "You dug up a terracotta warrior! These statues guarded the emperor's tomb. Talk about good security!",
+
+        "Amber": "Amber",
+        "amber_description": "Waiter, there's a bug in my\nfossilized tree resin!",
+        "amber_description_tts": "You dug up amber! Waiter, there's a bug in my fossilized tree resin!",
+
+        "Ammonite Fossil": "Ammonite Fossil",
+        "ammonite_description": "Ammonite to meet you,\nancient seashell!",
+        "ammonite_description_tts": "You dug up an ammonite fossil! Ammo NITE to meet you, ancient seashell!",
+
+        "Argentinosaurus Femur": "Argentinosaurus Femur",
+        "femur_description": "The hip bone's connected\nto the… thigh bone!",
+        "femur_description_tts": "You dug up an Argentinosaurus femur! The hip bone's connected to the… thigh bone!",
+
+        "Fossil Track": "Fossil Track",
+        "fossil_track_description": "Now that's what I call making\na good impression!",
+        "fossil_track_description_tts": "You dug up a fossil track! Now, that's what I call making a good impression!",
+
+        "Utahraptor Skeleton": "Utahraptor Skeleton",
+        "utahraptor_description": "A prehistoric jigsaw puzzle -\nI can dig it!",
+        "utahraptor_description_tts": "You dug up a Utah raptor skeleton! A prehistoric jigsaw puzzle - I can dig it!",
+
+        "Bone Fishing Hook": "Bone Fishing Hook",
+        "hook_description": "I guess you could say I'm <i>hooked</i> on\ndigging up ancient artifacts!",
+        "hook_description_tts": "You dug up a bone fishing hook! I guess you could say I'm hooked on digging up ancient artifacts!",
+
+        "Moai Statue": "Moai Statue",
+        "moai_description": "What an incredible find! Just don't\nget a big head about it...",
+        "moai_description_tts": "You dug up a moai statue! What an incredible find! Just don't get a big head about it...",
+
+        "Petroglyph": "Petroglyph",
+        "petroglyph_description": "What an amazing ancient rock drawing!\nI sure won't take this for granite!",
+        "petroglyph_description_tts": "You dug up a petroglyph! What an amazing ancient rock drawing! I sure won't take this for granite!",
+
+        "Fossilized Shark Tooth": "Fossilized Shark Tooth",
+        "shark_tooth_description": "My, what sharp fossilized teeth\nyou have!",
+        "shark_tooth_description_tts": "You dug up a fossilized shark tooth! My, what sharp fossilized teeth you have!",
+
+        "Compass": "Compass",
+        "compass_description": "This compass always points\nto adventure! Ahoy!",
+        "compass_description_tts": "You dug up a compass! This compass always points to adventure! Ahoy!",
+
+        "Map Piece": "Map Piece",
+        "map_description": "X marks the spot... if you can find\nthe rest of the map!",
+        "map_description_tts": "You dug up a map piece! X marks the spot... if you can find the rest of the map!",
+
+        "Pieces of Eight": "Pieces of Eight",
+        "pieces_of_eight_description": "Fun fact: These coins were often cut into\neight pieces, giving them their name!",
+        "pieces_of_eight_description_tts": "You dug up pieces of eight! Fun fact: These coins were often cut into eight pieces, giving them their name!",
+
+        "Nautical Spyglass": "Nautical Spyglass",
+        "spyglass_description": "I spy with my little eye...\nan ancient artifact!",
+        "spyglass_description_tts": "You dug up a nautical spyglass! I spy, with my little eye... an ancient artifact!",
+
+        "Black Pearl": "Black Pearl",
+        "pearl_description": "Why didn't the oyster share his pearl?\nBecause he was a little shellfish!",
+        "pearl_description_tts": "You dug up a black pearl! Why didn't the oyster share his pearl? Because he was a little shellfish!",
+
+        "Diamond": "Diamond",
+        "diamond_description": "It's true what they say - crystalline carbon\nminerals are a girl's best friend!",
+        "diamond_description_tts": "You dug up a diamond! It's true what they say - crystalline carbon minerals are a girl's best friend!",
+
+        "Jade": "Jade",
+        "jade_description": "It ain't easy being green...\nunless you're a chunk of jade!",
+        "jade_description_tts": "You dug up jade! It ain't easy being green... unless you're a chunk of jade!",
+
+        "Ruby": "Ruby",
+        "ruby_description": "This fiery gemstone is the crown jewel\nof the seven seas!",
+        "ruby_description_tts": "You dug up a ruby! This fiery gemstone is the crown jewel of the seven seas!",
+
+        "Sapphire": "Sapphire",
+        "sapphire_description": "Roses are red, violets are purple...\nBut this sapphire is true blue!",
+        "sapphire_description_tts": "You dug up a sapphire! Roses are red, violets are purple... But this sapphire is true blue!",
+
+        "Turquoise": "Turquoise",
+        "turquoise_description": "This gem is a storyteller, whispering\nancient tales of earth and sky!",
+        "turquoise_description_tts": "You dug up turquoise! This gem is a storyteller, whispering ancient tales of earth and sky!",
+
+        "ALL TARGET ITEMS FOUND!": "ALL TARGET ITEMS FOUND!",
+
+        "level1_tutorial_page_0": "Welcome to the command center!  Here you'll find all the controls to direct your robot companion, BoXY.",
+        "level1_tutorial_page_0_tts": "Welcome to the command center!  Here you'll find all the controls to direct your robot companion, Boxy.",
+        "level1_tutorial_page_1": "BoXY works on a coordinate plane system.  You can tell him where to go by entering ordered pairs in the form (X,Y).",
+        "level1_tutorial_page_1_tts": "Boxy works on a coordinate plane system.  You can tell him where to go by entering ordered pairs in the form x comma y.",
+        "level1_tutorial_page_2": "The x-value controls horizontal, left to right movement, and the y-value controls vertical, up and down movement.",
+        "level1_tutorial_page_2_tts": "The x-value controls horizontal, left to right movement, and the y-value controls vertical, up and down movement.",
+        "level1_tutorial_page_3": "This line here is called the <b >x-axis</b>.  It shows x-values from zero up to, in this case, five.",
+        "level1_tutorial_page_3_tts": "This line here is called the x-axis.  It shows x-values from zero up to, in this case, five.",
+        "level1_tutorial_page_4": "And as you might have guessed, this is the <b >y-axis</b>, with y-values from zero to four.",
+        "level1_tutorial_page_4_tts": "And as you might have guessed, this is the y-axis, with y-values from zero to four.",
+        "level1_tutorial_page_5": "Use the keypad to put in your desired coordinates, then hit GO!",
+        "level1_tutorial_page_5_tts": "Use the keypad to put in your desired coordinates, then hit GO!",
+        "level1_tutorial_page_6": "When BoXY reaches the target coordinates, hit the big red DIG button to see what's buried below!",
+        "level1_tutorial_page_6_tts": "When Boxy reaches the target coordinates, hit the big red DIG button to see what's buried below!",
+        "level1_tutorial_page_7": "Alright, now it's your turn! Get out there and find us a big ol' dinosaur bone!  I know you can do it!",
+        "level1_tutorial_page_7_tts": "Alright, now it's your turn! Get out there and find us a big ol' dinosaur bone!  I know you can do it!",
+
+        "quadrant_tutorial_page_0": "This dig site is way bigger than the last one! We can divide large dig sites like this into four sections, called <b >quadrants</b>.",
+        "quadrant_tutorial_page_0_tts": "This dig site is way bigger than the last one! We can divide large dig sites like this into four sections, called quadrants.",
+        "quadrant_tutorial_page_1": "First, let me explain - You see the point where the x-axis and the y-axis cross, (0,0)? We call this point the <b >origin</b>.",
+        "quadrant_tutorial_page_1_tts": "First, let me explain - You see the point where the x-axis and the y-axis cross, zero-zero? We call this point the origin.",
+        "quadrant_tutorial_page_2": "On the x-axis, numbers to the left of the origin are negative, and numbers to the right are positive.",
+        "quadrant_tutorial_page_2_tts": "On the x-axis, numbers to the left of the origin are negative, and numbers to the right are positive.",
+        "quadrant_tutorial_page_3": "Same thing with the y-axis - numbers below the origin are negative, and numbers above are positive.",
+        "quadrant_tutorial_page_3_tts": "Same thing with the y-axis - numbers below the origin are negative, and numbers above are positive.",
+        "quadrant_tutorial_page_4": "The quadrants are numbered counter-clockwise. <b >Quadrant I</b> is on the top right, and has positive x and y coordinates.",
+        "quadrant_tutorial_page_4_tts": "The quadrants are numbered counter-clockwise. Quadrant one is on the top right, and has positive x and y coordinates.",
+        "quadrant_tutorial_page_5": "<b >Quadrant II</b> is on the top left, where the x-coordinates are negative but the y-coordinates are positive.",
+        "quadrant_tutorial_page_5_tts": "Quadrant two is on the top left, where the x-coordinates are negative but the y-coordinates are positive.",
+        "quadrant_tutorial_page_6": "<b >Quadrant III</b> is on the bottom left, where both x and y coordinates are negative.",
+        "quadrant_tutorial_page_6_tts": "Quadrant three is on the bottom left, where both x and y coordinates are negative.",
+        "quadrant_tutorial_page_7": "Finally, <b >Quadrant IV</b> is on the bottom right, where, you guessed it, the x-coordinates are positive and the y-coordinates are negative.",
+        "quadrant_tutorial_page_7_tts": "Finally, Quadrant four is on the bottom right, where, you guessed it, the x-coordinates are positive and the y-coordinates are negative.",
+        "quadrant_tutorial_page_8": "Now, let's put BoXY's new ability to good use and see if we can make this dig site a bit more manageable.  Initiate scan!",
+        "quadrant_tutorial_page_8_tts": "Now, let's put Boxy's new ability to good use and see if we can make this dig site a bit more manageable.  Initiate scan!",
+        "quadrant_tutorial_page_9": "",
+        "quadrant_tutorial_page_9_tts": "",
+        "quadrant_tutorial_page_10": "...Scan complete!",
+        "quadrant_tutorial_page_10_tts": "...Scan complete!",
+        "quadrant_tutorial_page_11": "Our scans show that a large moai statue is buried somewhere with a <b >positive</b> x‑coordinate and a <b >negative</b> y-coordinate.",
+        "quadrant_tutorial_page_11_tts": "Our scans show that a large moai statue is buried somewhere with a positive x‑coordinate and a negative y-coordinate.",
+        "quadrant_tutorial_page_12": "Go ahead and select the correct quadrant, and let's get digging!",
+        "quadrant_tutorial_page_12_tts": "Go ahead and select the correct quadrant, and let's get digging!",
+
+        "level3_tutorial_page_0": "Hey there! You're doing an amazing job! Keep up the good work!",
+        "level3_tutorial_page_0_tts": "Hey there! You're doing an amazing job! Keep up the good work!",
+        "level3_tutorial_page_1": "Just wanted to give you one more tip: if you ever need a reminder of your mission's target items, click on this tab here!",
+        "level3_tutorial_page_1_tts": "Just wanted to give you one more tip: if you ever need a reminder of your mission's target items, click on this tab here!",
+        "level3_tutorial_page_2": "Anyhow, you know the drill. Let's go find these terracotta warrior statues!",
+        "level3_tutorial_page_2_tts": "Anyhow, you know the drill. Let's go find these terracotta warrior statues!",
+        "level3_tutorial_page_3": "Initiate scan!",
+        "level3_tutorial_page_3_tts": "Initiate scan!",
+        "level3_tutorial_page_4": "",
+        "level3_tutorial_page_4_tts": "",
+        "level3_tutorial_page_5": "Okay, it looks like our statues are in <b >Quadrant II</b>.  Let's go get them!",
+        "level3_tutorial_page_5_tts": "Okay, it looks like our statues are in Quadrant two.  Let's go get them!",
+
+        "bonus_tutorial_page_0": "Welcome to the bonus missions!  In these missions, you'll control BoXY directly. Are you up for the challenge?",
+        "bonus_tutorial_page_0_tts": "Welcome to the bonus missions!  In these missions, you'll control Boxy directly. Are you up for the challenge?",
+        "bonus_tutorial_page_1": "For these missions, use the WASD or arrow keys to drive BoXY around the map. You can also use the joystick!",
+        "bonus_tutorial_page_1_tts": "For these missions, use the W A S D or arrow keys to drive Boxy around the map. You can also use the joystick!",
+        "bonus_tutorial_page_2": "You'll be given target coordinates up top. Drive to these coordinates as quickly as you can!",
+        "bonus_tutorial_page_2_tts": "You'll be given target coordinates up top. Drive to these coordinates as quickly as you can!",
+        "bonus_tutorial_page_3": "When you reach your destination, hit the red DIG button (or the spacebar) to dig up a gemstone!",
+        "bonus_tutorial_page_3_tts": "When you reach your destination, hit the red DIG button (or the spacebar) to dig up a gemstone!",
+        "bonus_tutorial_page_4": "Unearth as many gemstones as you can before time runs out!",
+        "bonus_tutorial_page_4_tts": "Unearth as many gemstones as you can, before time runs out!",
+        "bonus_tutorial_page_5": "And one more thing - these bonus missions are unlimited, so take on as many as you'd like if you want to make some extra cash!",
+        "bonus_tutorial_page_5_tts": "And one more thing - these bonus missions are unlimited, so take on as many as you'd like if you want to make some extra cash!",
+        "bonus_tutorial_page_6": "Have fun!",
+        "bonus_tutorial_page_6_tts": "Have fun!",
+
+        "reflection_tutorial_page_0": "Hey! Looks like it's time to take BoXY's shiny new upgrade out for a test drive!",
+        "reflection_tutorial_page_0_tts": "Hey! Looks like it's time to take Boxy's shiny new upgrade out for a test drive!",
+        "reflection_tutorial_page_1": "With the <b >reflection</b> upgrade installed, BoXY is now able to remotely control a drone excavator!",
+        "reflection_tutorial_page_1_tts": "With the reflection upgrade installed, Boxy is now able to remotely control a drone excavator!",
+        "reflection_tutorial_page_2": "This will really be helpful in digging in those hard-to-reach places.",
+        "reflection_tutorial_page_2_tts": "This will really be helpful in digging in those hard-to-reach places.",
+        "reflection_tutorial_page_3": "You can use these buttons here to control the <b >axis of reflection</b>.",
+        "reflection_tutorial_page_3_tts": "You can use these buttons here to control the axis of reflection.",
+        "reflection_tutorial_page_4": "Think of it this way - when you reflect across the y-axis, it's like the y-axis becomes a mirror. Any point on one side of the y-axis gets reflected to the other side.",
+        "reflection_tutorial_page_4_tts": "Think of it this way - when you reflect across the y-axis, it's like the y-axis becomes a mirror. Any point on one side of the y-axis gets reflected to the other side.",
+        "reflection_tutorial_page_5": "For example, if you take a point like (3,2) and reflect it across the y-axis, you'll see that the reflected point is (-3,2).",
+        "reflection_tutorial_page_5_tts": "For example, if you take a point like three, two, and reflect it across the y-axis, you'll see that the reflected point is negative three, two.",
+        "reflection_tutorial_page_6": "The x-coordinate flips its sign from positive to negative.",
+        "reflection_tutorial_page_6_tts": "The x-coordinate flips its sign from positive to negative.",
+        "reflection_tutorial_page_7": "Same thing with reflecting across the x-axis - a point like (-4,-3) gets reflected across to the other side, ending up at (-4,3).  This time, the y-coordinate flips its sign.",
+        "reflection_tutorial_page_7_tts": "Same thing with reflecting across the x-axis - a point like negative four, negative three, gets reflected across to the other side, ending up at negative four, three.  This time, the y-coordinate flips its sign.",
+        "reflection_tutorial_page_8": "Finally, if you reflect across <b >both</b> the x-axis and the y-axis, <b >both</b> coordinates flip signs, so a point like (4,1) becomes (-4,-1). This is also called <b >reflecting across the origin</b>.",
+        "reflection_tutorial_page_8_tts": "Finally, if you reflect across both the x-axis and the y-axis, both coordinates flip signs, so a point like four, one, becomes negative four, negative one. This is also called reflecting across the origin.",
+        "reflection_tutorial_page_9": "So when you're using reflection, just think - which axis do I want to become a mirror?",
+        "reflection_tutorial_page_9_tts": "So when you're using reflection, just think - which axis do I want to become a mirror?",
+        "reflection_tutorial_page_10": "Alrighty! Let's go dig up some dinosaur bones, shall we?",
+        "reflection_tutorial_page_10_tts": "Alrighty! Let's go dig up some dinosaur bones, shall we?",
+        "reflection_tutorial_page_11": "Initiate scan!",
+        "reflection_tutorial_page_11_tts": "Initiate scan!",
+        "reflection_tutorial_page_12": "",
+        "reflection_tutorial_page_12_tts": "",
+        "reflection_tutorial_page_13": "...Okay! Looks like our target is on the other side of the river in <b >Quadrant II</b>.",
+        "reflection_tutorial_page_13_tts": "...Okay! Looks like our target is on the other side of the river in Quadrant two.",
+        "reflection_tutorial_page_14": "Make good use of BoXY's <b >reflection</b> ability and let's find that dino skeleton!",
+        "reflection_tutorial_page_14_tts": "Make good use of Boxy's reflection ability and let's find that dyno skeleton!",
+
+        "level5_tutorial_page_0": "It's our final mission! Time flies when you're digging up ancient artifacts!",
+        "level5_tutorial_page_0_tts": "It's our final mission! Time flies when you're digging up ancient artifacts!",
+        "level5_tutorial_page_1": "So it looks like we're searching for four pieces of a massive stone treasure map... How exciting!",
+        "level5_tutorial_page_1_tts": "So it looks like we're searching for four pieces of a massive stone treasure map... How exciting!",
+        "level5_tutorial_page_2": "Let's see if we can figure out where these artifacts are buried. Initiate scan!",
+        "level5_tutorial_page_2_tts": "Let's see if we can figure out where these artifacts are buried. Initiate scan!",
+        "level5_tutorial_page_3": "",
+        "level5_tutorial_page_3_tts": "",
+        "level5_tutorial_page_4": "Just as I thought, it looks like there is one piece of the map buried on each of these four islands.",
+        "level5_tutorial_page_4_tts": "Just as I thought, it looks like there is one piece of the map buried on each of these four islands.",
+        "level5_tutorial_page_5": "Make good use of BoXY's <b >reflection</b> ability and find all four pieces!",
+        "level5_tutorial_page_5_tts": "Make good use of Boxy's reflection ability and find all four pieces!",
+        "level5_tutorial_page_6": "Adventure awaits!",
+        "level5_tutorial_page_6_tts": "Adventure awaits!",
+
+
+        "countdown_go": "GO!",
+        "times_up": "Time's Up!",
+        "NEXT COORDINATE:": "NEXT COORDINATE:",
+
+        "REFLECTION": "REFLECTION",
+        "FUEL": "FUEL",
+
+        "OUT OF FUEL!": "OUT OF FUEL!",
+        "BoXY's fuel tank is empty!": "BoXY's fuel tank is empty!",
+        "Time for a refill!": "Time for a refill!",
+        "Buy Fuel": "Buy Fuel",
+        "out_of_fuel_tts": "Boxy's fuel tank is empty! Time for a refill!",
+
+        "Select quadrant:": "Select quadrant:",
+        "quadrant_hint_level_2": "Artifact location:\npositive x-coordinate, negative y-coordinate",
+        "quadrant_hint_level_2_tts": "Artifact location: positive x-coordinate, negative y-coordinate",
+        "quadrant_hint_level_3": "Artifact location:\nQuadrant II",
+        "quadrant_hint_level_3_tts": "Artifact location: Quadrant two",
+
+
+        "CONGRATULATIONS!": "CONGRATULATIONS!",
+        "END GAME": "END GAME"
+    }
+}
